@@ -10,5 +10,5 @@ Solving the above, allows us to see p = q = 0.5 to allow for the Markov Chain to
 This simple script allows us the visualise this random walk, and generates a graph like this - 
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/65075293/99667032-b1ea8e00-2a63-11eb-94dc-0c0cd0860eb2.png" width="6000px"</img> 
+    <img src="https://user-images.githubusercontent.com/65075293/99667032-b1ea8e00-2a63-11eb-94dc-0c0cd0860eb2.png" width="600px"</img> 
 </div>
