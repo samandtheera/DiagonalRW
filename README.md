@@ -1,4 +1,4 @@
 # DiagonalRW
 Plot of the 2-dimensional, diagonal random walk.
 
-https://github.com/samandtheera/DiagonalRW/issues/1#issue-746538776
+Screenshot 2020-11-19 at 12 25 13
